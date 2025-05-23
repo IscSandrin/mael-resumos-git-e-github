@@ -10,7 +10,8 @@ Repoitórios para armazenar resumos sobre Git e Github do curso Versionamento de
 
 | Aulas | Resumo |
 | ------ | -------
-| Salvando Alterações no Repositório Local |[Aula](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1) |
+| Aula 1 | [Resumos]() |
+| Aula 2 | [Resumos]() |
 
 ```
 git init
